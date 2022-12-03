@@ -2,83 +2,83 @@
 var app = new function() {
     this.name = "Dystopia", this.version = "8", this.date = "2020", this.folder = "asset-v8/", this.looptime = 6857, this.bpm = 140, this.totalframe = 328, this.nbpolo = 7, this.nbloopbonus = 6, this.bonusloopA = !0, this.bonusendloopA = !1, this.recmaxloop = 27, this.recminloop = 4, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#0a1d1e", this.col0 = "#779295", this.col1 = "#5f7e7b", this.col2 = "#476761", this.col3 = "#304d47", this.col4 = "#1b312f", this.animearray = [{
         name: "1_atlanta",
-        color: "5f7e7b",
+        color: "67475f",
         uniqsnd: !1
     }, {
         name: "2_tuctom",
-        color: "5f7e7b",
+        color: "67475f",
         uniqsnd: !1
     }, {
         name: "3_foubreak",
-        color: "5f7e7b",
+        color: "67475f",
         uniqsnd: !1
     }, {
         name: "4_koukaki",
-        color: "5f7e7b",
+        color: "67475f",
         uniqsnd: !0
     }, {
         name: "5_koungou",
-        color: "5f7e7b",
+        color: "67475f",
         uniqsnd: !0
     }, {
         name: "6_bass",
-        color: "5f7e7b",
+        color: "3b4d30",
         uniqsnd: !1
     }, {
         name: "7_monk",
-        color: "5f7e7b",
+        color: "3b4d30",
         uniqsnd: !1
     }, {
         name: "8_sonar",
-        color: "5f7e7b",
+        color: "3b4d30",
         uniqsnd: !0
     }, {
         name: "9_souffle",
-        color: "5f7e7b",
+        color: "3b4d30",
         uniqsnd: !1
     }, {
         name: "10_epifle",
-        color: "5f7e7b",
+        color: "3b4d30",
         uniqsnd: !1
     }, {
         name: "11_arpeg",
-        color: "5f7e7b",
+        color: "5d4767",
         uniqsnd: !1
     }, {
         name: "12_tromp",
-        color: "5f7e7b",
+        color: "5d4767",
         uniqsnd: !1
     }, {
         name: "13_pizzi",
-        color: "5f7e7b",
+        color: "5d4767",
         uniqsnd: !1
     }, {
         name: "14_organ",
-        color: "5f7e7b",
+        color: "5d4767",
         uniqsnd: !1
     }, {
         name: "15_synth",
-        color: "5f7e7b",
+        color: "5d4767",
         uniqsnd: !1
     }, {
         name: "16_follow",
-        color: "5f7e7b",
+        color: "4d3b30",
         uniqsnd: !1
     }, {
         name: "17_choir",
-        color: "5f7e7b",
+        color: "4d3b30",
         uniqsnd: !1
     }, {
         name: "18_houhou",
-        color: "5f7e7b",
+        color: "4d3b30",
         uniqsnd: !1
     }, {
         name: "19_reach",
-        color: "5f7e7b",
+        color: "4d3b30",
         uniqsnd: !1
     }, {
         name: "20_believe",
-        color: "5f7e7b",
+        color: "4d3b30",
         uniqsnd: !1
     }], this.bonusarray = [{
         name: "Riveria",
