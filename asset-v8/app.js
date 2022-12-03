@@ -83,19 +83,19 @@ var app = new function() {
     }], this.bonusarray = [{
         name: "Riveria",
         src: "v8-b1-riviera-hb.mp4",
-        code: "1,6,7,11,19",
+        code: "1,3,6,11,19",
         sound: "21_bonus_riviera",
         aspire: "aspire"
     }, {
         name: "Zemetekile",
         src: "v8-b2-zemetekile-hb.mp4",
-        code: "1,2,3,4,10",
+        code: "1,2,4,11,13",
         sound: "22_bonus_zemetekile",
         aspire: "aspire"
     }, {
         name: "Cumulor",
         src: "v8-b3-cumulor-hb.mp4",
-        code: "4,5,14,16,18",
+        code: "4,5,14,16,17",
         sound: "23_bonus_cumulor",
         aspire: "aspire"
     }];
