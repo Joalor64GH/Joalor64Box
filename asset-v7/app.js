@@ -2,83 +2,83 @@
 var app = new function() {
     this.name = "Jeevan", this.version = "7", this.date = "2019", this.folder = "asset-v7/", this.looptime = 6857, this.bpm = 140, this.totalframe = 342, this.nbpolo = 7, this.nbloopbonus = 3, this.bonusloopA = !0, this.bonusendloopA = !0, this.recmaxloop = 27, this.recminloop = 3, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#2b0f02", this.col0 = "#fe6e23", this.col1 = "#d65a1e", this.col2 = "#ae4619", this.col3 = "#863214", this.col4 = "#551e05", this.animearray = [{
         name: "1_lead",
-        color: "ff6419",
+        color: "5119ff",
         uniqsnd: !0
     }, {
         name: "2_pouin",
-        color: "ff6419",
+        color: "5119ff",
         uniqsnd: !1
     }, {
         name: "3_tung",
-        color: "ff6419",
+        color: "5119ff",
         uniqsnd: !0
     }, {
         name: "4_tabla",
-        color: "ff6419",
+        color: "5119ff",
         uniqsnd: !0
     }, {
         name: "5_tuduki",
-        color: "ff6419",
+        color: "5119ff",
         uniqsnd: !0
     }, {
         name: "6_bass",
-        color: "e11923",
+        color: "1934e1",
         uniqsnd: !1
     }, {
         name: "7_bourdon",
-        color: "e11923",
+        color: "1934e1",
         uniqsnd: !0
     }, {
         name: "8_campan",
-        color: "e11923",
+        color: "1934e1",
         uniqsnd: !0
     }, {
         name: "9_kum",
-        color: "e11923",
+        color: "1934e1",
         uniqsnd: !1
     }, {
         name: "10_string",
-        color: "e11923",
+        color: "1934e1",
         uniqsnd: !1
     }, {
         name: "11_citar",
-        color: "328cd2",
+        color: "99d232",
         uniqsnd: !0
     }, {
         name: "12_guit",
-        color: "328cd2",
+        color: "99d232",
         uniqsnd: !0
     }, {
         name: "13_tromp",
-        color: "328cd2",
+        color: "99d232",
         uniqsnd: !1
     }, {
         name: "14_taoung",
-        color: "328cd2",
+        color: "99d232",
         uniqsnd: !0
     }, {
         name: "15_sifle",
-        color: "328cd2",
+        color: "99d232",
         uniqsnd: !1
     }, {
         name: "16_djindr",
-        color: "32b441",
+        color: "b43632",
         uniqsnd: !0
     }, {
         name: "17_djinga",
-        color: "32b441",
+        color: "b43632",
         uniqsnd: !0
     }, {
         name: "18_djinta",
-        color: "32b441",
+        color: "b43632",
         uniqsnd: !0
     }, {
         name: "19_jeevan",
-        color: "32b441",
+        color: "b43632",
         uniqsnd: !1
     }, {
         name: "20_yaha",
-        color: "32b441",
+        color: "b43632",
         uniqsnd: !1
     }], this.bonusarray = [{
         name: "Kofitez",
