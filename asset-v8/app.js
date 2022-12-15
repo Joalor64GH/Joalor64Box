@@ -89,7 +89,7 @@ var app = new function() {
     }, {
         name: "Zemetekile",
         src: "v8-b2-zemetekile-hb.mp4",
-        code: "1,2,4,11,13",
+        code: "1,2,4,10,13",
         sound: "22_bonus_zemetekile",
         aspire: "aspire"
     }, {
