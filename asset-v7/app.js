@@ -83,7 +83,7 @@ var app = new function() {
     }], this.bonusarray = [{
         name: "Kofitez",
         src: "v7-b1-kofitez-hb.mp4",
-        code: "1,5,6,11,18",
+        code: "1,5,6,12,18",
         sound: "bonus_kofitez",
         aspire: "aspire_kofitez"
     }, {
